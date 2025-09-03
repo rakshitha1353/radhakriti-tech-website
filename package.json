@@ -14,10 +14,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-"start": "react-scripts start",
-"build": "next build --no-lint",
-"test": "react-scripts test",
-"eject": "react-scripts eject"
+    "start": "react-scripts start",
+    "build": "next build --no-lint",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "@types/react": "^19.1.12",
-    "@types/react-dom": "^19.1.9"
+    "@types/react-dom": "^19.1.9",
+    "typescript": "^5.9.2"
   }
 }
